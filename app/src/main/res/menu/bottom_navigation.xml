@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_commune"
+        android:title="Commune" />
+    <item
+        android:id="@+id/nav_rare"
+        android:title="Rare" />
+    <item
+        android:id="@+id/nav_epique"
+        android:title="Epique" />
+    <item
+        android:id="@+id/nav_legendaire"
+        android:title="Legendaire" />
+</menu>
